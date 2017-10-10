@@ -6,3 +6,9 @@ boost.1.63.0.0
 .vscode
 *.o
 /porosity/macos/Build
+porosity/packages/
+porosity/porosity/x64/
+porosity/x64/
+*.user
+porosity/porosity.VC.db
+porosity/.vs/
